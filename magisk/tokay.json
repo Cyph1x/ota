@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "full": {
-    "location_ota": "https://github.com/rooted-graphene/ota/releases/download/2025091900/tokay-2025091900-5c29798-magisk-v29.0.zip",
-    "location_csig": "https://github.com/rooted-graphene/ota/releases/download/2025091900/tokay-2025091900-5c29798-magisk-v29.0.zip.csig"
-  }
-}
